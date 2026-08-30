@@ -6,4 +6,6 @@
 
 *Exploring the space between data and intelligence.* 🌌
 
+<img src="./assets/banner.svg" width="100%">
+
 </div>
