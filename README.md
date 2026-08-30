@@ -46,8 +46,6 @@ modern AI systems.
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -79,3 +77,40 @@ modern AI systems.
 - Generative AI
 - Large Language Models
 - Transformers
+
+---
+
+## 🧠 Projects
+
+A selection of projects where I apply machine learning, data analysis,
+and AI concepts to practical problems.
+
+### ✦ Signature Recognition System
+Machine learning system for distinguishing genuine and forged signatures
+using sequential signature data and feature engineering.
+
+**Tech:** Python · Scikit-learn · PyTorch · Pandas · NumPy
+
+### ✦ MountainCar — Q-Learning
+Reinforcement learning project implementing Q-Learning to train an agent
+to solve the MountainCar environment.
+
+**Tech:** Python · Reinforcement Learning · Q-Learning
+
+### ✦ IMDB Sentiment Analyzer
+Natural language processing project for classifying movie reviews based
+on their sentiment.
+
+**Tech:** Python · NLP · Machine Learning
+
+### ✦ Spam Detector
+Machine learning model for detecting spam messages using text-based
+features.
+
+**Tech:** Python · NLP · Scikit-learn
+
+### ✦ House Price Predictor
+Regression-based machine learning project for predicting house prices
+from relevant property features.
+
+**Tech:** Python · Pandas · Scikit-learn · Matplotlib
