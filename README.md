@@ -46,27 +46,36 @@ modern AI systems.
 
 ---
 
-## 🧪 Equipment Bay
+---
 
-> **Technical toolkit used to design, analyze, and build intelligent systems.**
+## 🛠️ Tech Stack
 
-### Programming
+### Languages
+- Python
+- Java
+- SQL
+- HTML
+- CSS
 
-`Python` · `Java` · `SQL` · `HTML` · `CSS`
-
-### Machine Learning & AI
-
-`Scikit-learn` · `PyTorch` · `Machine Learning` · `Deep Learning`
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Scikit-learn
 
 ### Data & Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
 
-`Pandas` · `NumPy` · `Matplotlib` · `Power BI`
+### Tools & Platforms
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
-### Development & Tools
-
-`Git` · `GitHub` · `Jupyter Notebook` · `VS Code`
-
-### Currently Exploring
-
-`Generative AI` · `Large Language Models` · `Transformers`
-
+### Currently Learning
+- Generative AI
+- Large Language Models
+- Transformers
