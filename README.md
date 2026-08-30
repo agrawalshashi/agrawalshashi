@@ -43,3 +43,30 @@ modern AI systems.
 - 📊 Working with Data Analysis & Machine Learning
 - 🧪 Building practical AI/ML experiments
 - 🚀 Continuously expanding my technical universe
+
+---
+
+## 🧪 Equipment Bay
+
+> **Technical toolkit used to design, analyze, and build intelligent systems.**
+
+### Programming
+
+`Python` · `Java` · `SQL` · `HTML` · `CSS`
+
+### Machine Learning & AI
+
+`Scikit-learn` · `PyTorch` · `Machine Learning` · `Deep Learning`
+
+### Data & Analytics
+
+`Pandas` · `NumPy` · `Matplotlib` · `Power BI`
+
+### Development & Tools
+
+`Git` · `GitHub` · `Jupyter Notebook` · `VS Code`
+
+### Currently Exploring
+
+`Generative AI` · `Large Language Models` · `Transformers`
+
