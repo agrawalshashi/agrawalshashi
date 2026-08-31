@@ -77,6 +77,9 @@ Generative AI
   ↓
 Intelligent Systems
 
+---
+
+
 ## 🧠 Projects
 
 A selection of projects where I apply machine learning, data analysis,
