@@ -45,40 +45,37 @@ modern AI systems.
 - 🚀 Continuously expanding my technical universe
 
 ---
+---
 
-## 🛠️ Tech Stack
+## 🌠 Expedition Log
 
-### Languages
-- Python
-- Java
-- SQL
-- HTML
-- CSS
+### 🚀 AI & Machine Learning Training
 
-### AI / Machine Learning
-- Machine Learning
-- Deep Learning
-- PyTorch
-- Scikit-learn
+**Advanced AI / ML / Deep Learning / LLM Training**
 
-### Data & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
+> Currently exploring advanced concepts in Artificial Intelligence,
+> Machine Learning, Deep Learning, Generative AI, and Large Language Models.
 
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+#### ✦ Areas Being Explored
 
-### Currently Learning
-- Generative AI
-- Large Language Models
-- Transformers
+`Machine Learning` • `Deep Learning` • `Neural Networks` • `Generative AI` • `LLMs`
 
 ---
+
+### 🛰️ Technical Journey
+
+My learning journey focuses on moving from:
+
+```text
+Data
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+Generative AI
+  ↓
+Intelligent Systems
 
 ## 🧠 Projects
 
