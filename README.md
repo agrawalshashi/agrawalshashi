@@ -124,6 +124,15 @@ from relevant property features.
 Tech: "Python" · "Pandas" · "Scikit-learn" · "Matplotlib"
 
 ---
+🧪 Reinforcement Learning Lab
+Current RL Projects
+
+- 🎯 CliffWalking — Q-Learning & SARSA
+- 🚗 MountainCar — Q-Learning with State Discretization
+- 🐦 Flappy Bird — Deep Q-Networks & Experience Replay
+
+---
+
 
 🛠️ Tech Stack
 
@@ -137,57 +146,6 @@ Tech: "Python" · "Pandas" · "Scikit-learn" · "Matplotlib"
 
 <p align="left"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></p>---
 
-🧪 Reinforcement Learning Lab
-
-Currently exploring how intelligent agents can learn through interaction
-with their environment.
-
-                 REINFORCEMENT LEARNING
-                          │
-              ┌───────────┴───────────┐
-              ↓                       ↓
-         Q-Learning             Deep Q-Learning
-              │                       │
-        ┌─────┴─────┐          ┌──────┴──────┐
-        ↓           ↓          ↓             ↓
-     Q-Table     Rewards    Neural Nets   Experience
-                                            Replay
-        │                       │
-        └───────────┬───────────┘
-                    ↓
-             Intelligent Agents
-
-Current RL Projects
-
-- 🎯 CliffWalking — Q-Learning & SARSA
-- 🚗 MountainCar — Q-Learning with State Discretization
-- 🐦 Flappy Bird — Deep Q-Networks & Experience Replay
-
----
-
-🚀 What I'm Exploring
-
-┌──────────────────────────────────────────────┐
-│                                              │
-│       🧠 Deep Learning & Neural Networks     │
-│                                              │
-│       🤖 Generative AI & Large Language      │
-│          Models                              │
-│                                              │
-│       🎯 Reinforcement Learning              │
-│                                              │
-│       📊 Machine Learning & Data Science     │
-│                                              │
-│       🗣️ Natural Language Processing         │
-│                                              │
-│       ⚙️ AI Application Development          │
-│                                              │
-└──────────────────────────────────────────────┘
-
-I'm continuously learning and experimenting with new technologies in
-Artificial Intelligence, Machine Learning, and software development.
-
----
 
 🌌 Beyond the Code
 
