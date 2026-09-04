@@ -181,10 +181,6 @@ Current RL Projects
 
 <img src="https://streak-stats.demolab.com/?user=agrawalshashi&theme=dark&hide_border=true"/></div>---
 
-🏆 GitHub Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=agrawalshashi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"/></div>---
-
 💡 Areas of Interest
 
 <div align="center">"Artificial Intelligence" ·
