@@ -20,10 +20,10 @@ I enjoy transforming ideas into practical projects — from traditional machine 
 
 ---
 
-<h2 align="center">
+<h2>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=70&pause=1500&color=4F9CFF&center=true&vCenter=true&width=800&height=50&lines=Interested+in+Artificial+Intelligence;Interested+in+Machine+Learning;Interested+in+Deep+Learning;Interested+in+Generative+AI;Interested+in+Natural+Language+Processing;Interested+in+Reinforcement+Learning&delete=true&repeat=true"
-    alt="Typing Animation"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=3500&pause=1200&color=4F9CFF&center=true&vCenter=true&width=850&height=50&lines=Interested+in+Artificial+Intelligence"
+    alt="Interested in Artificial Intelligence"
   />
 </h2>
 
