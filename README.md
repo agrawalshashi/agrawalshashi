@@ -21,13 +21,13 @@ I enjoy transforming ideas into practical projects — from traditional machine 
 ---
 
 <h2 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=90&pause=1800&color=4F9CFF&center=true&vCenter=true&width=750&lines=Interested+in+Artificial+Intelligence;Interested+in+Machine+Learning;Interested+in+Deep+Learning;Interested+in+Generative+AI;Interested+in+Natural+Language+Processing;Interested+in+Reinforcement+Learning"
-    alt="AI/ML Interests"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=70&pause=1500&color=4F9CFF&center=true&vCenter=true&width=800&height=50&lines=Interested+in+Artificial+Intelligence;Interested+in+Machine+Learning;Interested+in+Deep+Learning;Interested+in+Generative+AI;Interested+in+Natural+Language+Processing;Interested+in+Reinforcement+Learning&delete=true&repeat=true"
+    alt="Typing Animation"
   />
 </h2>
 
-<div align="center">
+<div>
 
 🧠 **Deep Learning & Neural Networks**  
 🤖 **Generative AI & Large Language Models**  
@@ -40,6 +40,7 @@ I enjoy transforming ideas into practical projects — from traditional machine 
 </div>
 
 ---
+
 
 🌠 My Learning Journey
 
